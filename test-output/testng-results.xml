@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6869" started-at="2019-06-02T18:47:19Z" finished-at="2019-06-02T18:47:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6869" started-at="2019-06-02T18:47:19Z" finished-at="2019-06-02T18:47:26Z">
+      <class name="com.class12.Task1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.class12.Task1@4678c730]" name="setUp" is-config="true" duration-ms="5645" started-at="2019-06-02T18:47:19Z" finished-at="2019-06-02T18:47:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ulogin()[pri:0, instance:com.class12.Task1@4678c730]" name="ulogin" duration-ms="1196" started-at="2019-06-02T18:47:25Z" finished-at="2019-06-02T18:47:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ulogin -->
+      </class> <!-- com.class12.Task1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
